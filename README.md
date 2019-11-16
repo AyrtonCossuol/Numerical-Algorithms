@@ -3,6 +3,8 @@
  
  <br>
  <h3>Interpolation</h3>
- * Newton polynomial interpolation.
- * Minimum squares method.
- * Lagrange Interpolator Polynomial.
+ <ul>
+   <li>Newton polynomial interpolation.</li>
+   <li>Minimum squares method.</li>
+   <li>Lagrange Interpolator Polynomial.</li>
+ </ul>
